@@ -2,9 +2,9 @@
 
 I'm an undergraduate student at the University of North Carolina at Charlotte, majoring in computer science with a concentration in AI, Robotics, and Gaming.
 
-## 🔧 Technologies & Tools
-- Languages: Java, C++, Python
-- Skills: Software Development, Algorithm Design, Problem-Solving
+## 🚀 Technical Skills
+- **Programming Languages:** Python, SQL, Java, C++, C#
+- **Tech/Tools:** Git, Unity, Linux, Zendesk, Tableau, React Native, Expo Go, Microsoft Suite, Google Suite, Figma, Slack, Jira
 
 ## 🌱 About Me
 As a computer science student, I've gained hands-on experience in various programming languages through coursework and personal projects. My journey has equipped me with a strong foundation in software development and a knack for solving complex problems.
