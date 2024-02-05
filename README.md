@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hello, I'm Jacob George! 👋
 
-<!--
-**jgeorg24/jgeorg24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduate student at the University of North Carolina at Charlotte, majoring in computer science with a concentration in AI, Robotics, and Gaming.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- Languages: Java, C++, Python
+- Skills: Software Development, Algorithm Design, Problem-Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 About Me
+As a computer science student, I've gained hands-on experience in various programming languages through coursework and personal projects. My journey has equipped me with a strong foundation in software development and a knack for solving complex problems.
+
+## 👨‍💻 Academic Pursuits
+Currently pursuing a degree in computer science, I am passionate about exploring the realms of AI, Robotics, and Gaming. I thrive on challenges and am always eager to learn, whether it's mastering a new programming language or delving into cutting-edge technologies.
+
+## 🚀 Goals
+My ultimate goal is to leverage my skills and enthusiasm for computer science to make a meaningful impact in the industry. I'm actively seeking opportunities to grow and learn, and I'm excited to connect with like-minded individuals who share a passion for technology.
+
+## 📫 Let's Connect!
+Feel free to explore my repositories and connect with me. I'm open to collaborations, discussions, and always looking for new opportunities to contribute and learn. Let's build something amazing together! 🌟
+
