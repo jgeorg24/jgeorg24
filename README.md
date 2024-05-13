@@ -1,6 +1,6 @@
 # Hello, I'm Jacob George! 👋
 
-I'm an undergraduate student at the University of North Carolina at Charlotte, majoring in computer science with a concentration in AI, Robotics, and Gaming.
+I am a recent undergraduate graduate from the University of North Carolina at Charlotte, majoring in computer science with a concentration in AI, Robotics, and Gaming.
 
 ## 🚀 Technical Skills
 - **Programming Languages:** Python, SQL, Java, C++, C#
