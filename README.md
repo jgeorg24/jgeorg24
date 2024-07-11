@@ -9,8 +9,8 @@ I am a recent graduate from the University of North Carolina at Charlotte with a
 ## 🌱 About Me
 As a computer science student, I've gained hands-on experience in various programming languages through coursework and personal projects. My journey has equipped me with a strong foundation in software development and a knack for solving complex problems.
 
-## 👨‍💻 Academic Pursuits
-Currently pursuing a degree in computer science, I am passionate about exploring the realms of AI, Robotics, and Gaming. I thrive on challenges and am always eager to learn, whether it's mastering a new programming language or delving into cutting-edge technologies.
+## 👨‍💻 Academic Pursuit
+I graduated with a degree in computer science and was passionate about exploring the realms of AI, Robotics, and Gaming. I thrived on challenges and was always eager to learn, whether it was mastering a new programming language or delving into cutting-edge technologies.
 
 ## 🚀 Goals
 My ultimate goal is to leverage my skills and enthusiasm for computer science to make a meaningful impact in the industry. I'm actively seeking opportunities to grow and learn, and I'm excited to connect with like-minded individuals who share a passion for technology.
