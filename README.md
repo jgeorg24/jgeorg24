@@ -1,10 +1,10 @@
 # Hello, I'm Jacob George! 👋
 
-I am a recent undergraduate graduate from the University of North Carolina at Charlotte, majoring in computer science with a concentration in AI, Robotics, and Gaming.
+I am a recent graduate from the University of North Carolina at Charlotte with a degree in computer science with a concentration in AI, Robotics, and Gaming.
 
 ## 🚀 Technical Skills
 - **Programming Languages:** Python, SQL, Java, C++, C#
-- **Tech/Tools:** Git, Unity, Linux, Zendesk, Tableau, React Native, Expo Go, Microsoft Suite, Google Suite, Figma, Slack, Jira
+- **Tech/Tools:** Git, Unity, Linux, Zendesk, Tableau, React Native, Expo Go, Microsoft Suite, Google Suite, Figma, Slack, Jira, Monday.com
 
 ## 🌱 About Me
 As a computer science student, I've gained hands-on experience in various programming languages through coursework and personal projects. My journey has equipped me with a strong foundation in software development and a knack for solving complex problems.
